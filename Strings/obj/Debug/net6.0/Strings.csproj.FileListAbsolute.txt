@@ -1,0 +1,15 @@
+C:\git\Strings\Strings\StringCsharp\Strings\bin\Debug\net6.0\Strings.exe
+C:\git\Strings\Strings\StringCsharp\Strings\bin\Debug\net6.0\Strings.deps.json
+C:\git\Strings\Strings\StringCsharp\Strings\bin\Debug\net6.0\Strings.runtimeconfig.json
+C:\git\Strings\Strings\StringCsharp\Strings\bin\Debug\net6.0\Strings.dll
+C:\git\Strings\Strings\StringCsharp\Strings\bin\Debug\net6.0\Strings.pdb
+C:\git\Strings\Strings\StringCsharp\Strings\obj\Debug\net6.0\Strings.csproj.AssemblyReference.cache
+C:\git\Strings\Strings\StringCsharp\Strings\obj\Debug\net6.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Strings\Strings\StringCsharp\Strings\obj\Debug\net6.0\Strings.AssemblyInfoInputs.cache
+C:\git\Strings\Strings\StringCsharp\Strings\obj\Debug\net6.0\Strings.AssemblyInfo.cs
+C:\git\Strings\Strings\StringCsharp\Strings\obj\Debug\net6.0\Strings.csproj.CoreCompileInputs.cache
+C:\git\Strings\Strings\StringCsharp\Strings\obj\Debug\net6.0\Strings.dll
+C:\git\Strings\Strings\StringCsharp\Strings\obj\Debug\net6.0\refint\Strings.dll
+C:\git\Strings\Strings\StringCsharp\Strings\obj\Debug\net6.0\Strings.pdb
+C:\git\Strings\Strings\StringCsharp\Strings\obj\Debug\net6.0\Strings.genruntimeconfig.cache
+C:\git\Strings\Strings\StringCsharp\Strings\obj\Debug\net6.0\ref\Strings.dll
